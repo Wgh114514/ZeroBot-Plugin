@@ -204,7 +204,7 @@ func init() {
 	}
 
 	// 通过代码写死的方式添加主人账号
-	sus = append(sus, 1647550903)
+	sus = append(sus, 1727406517)
 	// sus = append(sus, 87654321)
 
 	// 启用 gui
